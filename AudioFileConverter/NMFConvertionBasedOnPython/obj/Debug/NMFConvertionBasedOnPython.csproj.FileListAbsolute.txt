@@ -1,0 +1,6 @@
+C:\Users\GSANKAR\source\repos\AudioFileConverter\NMFConvertionBasedOnPython\bin\Debug\NMFConvertionBasedOnPython.exe.config
+C:\Users\GSANKAR\source\repos\AudioFileConverter\NMFConvertionBasedOnPython\bin\Debug\NMFConvertionBasedOnPython.exe
+C:\Users\GSANKAR\source\repos\AudioFileConverter\NMFConvertionBasedOnPython\bin\Debug\NMFConvertionBasedOnPython.pdb
+C:\Users\GSANKAR\source\repos\AudioFileConverter\NMFConvertionBasedOnPython\obj\Debug\NMFConvertionBasedOnPython.exe
+C:\Users\GSANKAR\source\repos\AudioFileConverter\NMFConvertionBasedOnPython\obj\Debug\NMFConvertionBasedOnPython.pdb
+C:\Users\GSANKAR\source\repos\AudioFileConverter\NMFConvertionBasedOnPython\obj\Debug\NMFConvertionBasedOnPython.csprojAssemblyReference.cache
